@@ -1,6 +1,6 @@
-#Piano keys project
+# Piano keys project
 
-##This projects builds a small interactive game called Piano keys.
+## This projects builds a small interactive game called Piano keys.
 
 **How the game works:**
 1. User will follow the lyrics with piano keys below the piano to play the song Happy Birthday
